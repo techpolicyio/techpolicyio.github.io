@@ -1,0 +1,18 @@
+- unit: pmo
+  slug: programme-office
+  name: "Programme office"
+- unit: ipu
+  slug: internet-policy
+  name: "Internet policy"
+- unit: dgu
+  slug: digital-government
+  name: "Digital government"
+- unit: siu
+  slug: science-and-innovation
+  name: "Science and innovation"
+- unit: tdu
+  slug: tech-for-development
+  name: "Tech for development"
+- unit: cet
+  slug: community-engagement
+  name: "Community engagement"

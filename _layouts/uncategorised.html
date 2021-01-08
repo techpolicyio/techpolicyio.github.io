@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <div class="row mt-5">
+  
+    <div class="col">
+    
+      <h1 class="bg-tpp-gradient-text">{{ page.title }}</h1>
+      
+      {% capture units %}
+        {% for item in site.data.links %}
+          {{ item.unit }}
+        {% endfor %}
+      {% endcapture %}
+
+      {% assign sorted_units = units | split: ' ' | uniq | sort_natural %}
+      
+      <p>
+      {% for unit in sorted_units %}
+        {% assign this_unit = site.data.units | where: "unit", unit %}
+        <a href="/{{ this_unit[0].slug }}/" class="badge bg-tpp-primary font-monospace text-uppercase">{{ unit }}</a>
+      {% endfor %}
+      </p>
+      
+      {{ content }}
+      
+      <h2 class="pt-5">Links</h2>
+      
+      <div class="feed">
+      
+      {% assign sorted_links = site.data.links | sort: 'title' | sort: 'date' | reverse %}
+
+      {% for item in sorted_links %}
+      
+        {% unless item.unit %}
+  
+          {% include card.html %}
+        
+        {% endunless %}
+
+      {% endfor %}
+
+      </div>
+
+    </div>
+       
+  </div>
+</div>

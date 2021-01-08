@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <div class="row mt-5">
+
+    <div class="col">
+
+      <h1 class="bg-tpp-gradient-text">{{ page.title }}</h1>
+      
+      {{ content }}
+      
+    </div>
+    
+  </div>
+
+  {% for unit in site.data.units %}
+    <div class=row">
+      <div class="col mt-5 mb-3"">
+        <h2 id="{{ unit.unit }}">{{ unit.name }}</h2>
+      </div>
+    </div>
+      
+    {% assign unit_people = site.data.team | where: "unit", unit.unit %}
+    {% assign col_count = 1 %}
+
+    {% for person in unit_people %}
+
+      {% if col_count == 1 %}
+        <div class="row">
+      {% endif %}
+
+      <div class="col-lg-4 col-md-6 my-2">
+
+      {% include profile.html %}
+
+      </div>
+
+      {% assign col_count = col_count | plus: 1 %}
+
+      {% if col_count > 3 %}
+        </div>
+        {% assign col_count = 1 %}
+      {% endif %}
+
+    {% endfor %}
+
+    {% if col_count > 1 %}
+  
+      {% if col_count == 2 %}
+        <div class="col">
+        </div>
+      {% endif %}
+
+      <div class="col">
+      </div>
+
+      </div>
+
+    {% endif %}
+    
+  {% endfor %}
+
+</div>

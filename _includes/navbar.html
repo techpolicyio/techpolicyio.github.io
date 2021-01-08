@@ -1,0 +1,69 @@
+{% assign current = page.url | downcase | split: '/' %}
+
+<div class="sticky-top">
+
+<div class="navbar-dark bg-tpp-primary">
+  <div class="container">
+    <div class="row">  
+      <div class="col d-flex justify-content-between py-1 my-2">    
+        <a class="" href="/"><img src="/images/logo.png" class="logo" alt="Tech Policy"></a> <a href="#" class="arrow-top"><img src="/images/menu.png" class="logo" alt="Menu"></a>
+      </div>  
+    </div>
+  </div>
+</div>
+
+<div class="navbar-dark bg-tpp-gradient">
+  <div class="container">
+    <div class="row pt-1">  
+      <div class="col">    
+      </div>  
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div class="navbar-dark bg-tpp-gradient">
+  <div class="container">
+    <div class="row pb-1">
+      <div class="col-6 col-lg-4 my-2">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link py-1 {% if page.url == "/" %}active{% endif %}" href="/">All topics</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link py-1 {% if current[1] == "internet-policy" %}active{% endif %}" href="/internet-policy/">Internet policy</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link py-1 {% if current[1] == "digital-government" %}active{% endif %}" href="/digital-government/">Digital government</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link py-1 {% if current[1] == "science-and-innovation" %}active{% endif %}" href="/science-and-innovation/">Science and innovation</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link py-1 {% if current[1] == "tech-for-development" %}active{% endif %}" href="/tech-for-development/">Tech for development</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-6 col-lg-4 my-2">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link py-1 {% if current[1] == "collections" %}active{% endif %}" href="/collections/">Collections</a> 
+          </li>
+          <li class="nav-item">
+            <a class="nav-link py-1 {% if current[1] == "people" %}active{% endif %}" href="/people/">People</a> 
+          </li>
+          <li class="nav-item">
+            <a class="nav-link py-1 {% if current[1] == "about" %}active{% endif %}" href="/about/">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link py-1" href="https://progress.substack.com/">Newsletter &rarr;</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link py-1" href="https://institute.global">Tony Blair Institute &rarr;</a> 
+          </li>
+        </ul>    
+      </div>
+    </div>
+  </div>
+</div>

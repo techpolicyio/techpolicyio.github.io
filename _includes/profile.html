@@ -1,0 +1,12 @@
+<p>
+{% if person.img %}<img src="/images/{{ person.img }}" class="profile rounded-circle" />{% endif %}
+</p>
+
+<h5 class="my-1">{{ person.name }}</h5>
+<p class="mb-1">{{ person.title }}</p>
+
+<p><small>
+{% if person.tw %}<a href="https://twitter.com/{{ person.tw }}"><span class="profile-svg">{% include twitter.svg %}</span></a>{% endif %}
+{% if person.li %}<a href="https://linkedin.com/in/{{ person.li }}"><span class="profile-svg">{% include linkedin.svg %}</span></a>{% endif %}
+{% if person.tbi %}<a href="https://institute.global/contributors/{{ person.tbi }}">Bio</a>{% endif %}
+</small></p>

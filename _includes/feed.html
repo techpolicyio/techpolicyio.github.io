@@ -1,0 +1,17 @@
+<div class="feed">
+      
+{% assign sorted_links = site.data.links | sort: 'title' | sort: 'date' | reverse %}
+
+  {% if page.unit %}
+  
+    {% assign sorted_links = sorted_links | where: "unit", page.unit %}
+  
+  {% endif %}
+
+{% for item in sorted_links %}
+  
+  {% include card.html %}
+
+{% endfor %}
+
+</div>

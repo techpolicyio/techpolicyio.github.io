@@ -1,0 +1,17 @@
+# Site settings
+title: Tech Policy
+description: Links to our work on the tech revolution, from the Technology and Public Policy team at the Tony Blair Institute.
+url: "https://techpolicy.io"
+enforce_ssl: techpolicy.io
+permalink: /blog/:title/
+future: true
+
+# Account settings
+twitter: clry2
+facebook: 509241123
+ganalytics: UA-186437462-1
+
+# Build settings
+markdown: kramdown
+sass:
+  sourcemap: never
