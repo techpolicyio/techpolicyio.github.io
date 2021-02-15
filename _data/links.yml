@@ -402,6 +402,7 @@
 - title: "The new progressive agenda"
   url: https://progress.substack.com/p/the-new-progressive-agenda
   date: 2020-08-20
+  tags: progress
 - title: "Global genome project"
   url: https://institute.global/policy/global-genome-project
   date: 2020-09-14
@@ -409,6 +410,7 @@
 - title: "State your intentions"
   url: https://progress.substack.com/p/state-your-intentions
   date: 2020-09-11
+  tags: progress
 - title: "Vaizey View: Technology can disrupt the monopoly of government"
   date: 2020-09-28
   url: https://open.spotify.com/episode/0McpyjC7MVQ3icXufjbxu1
@@ -448,10 +450,12 @@
   date: 2020-09-30
   url: https://progress.substack.com/p/reconfiguring-the-state
   unit: dgu
+  tags: progress
 - title: "How to fix big tech"
   date: 2020-10-18
   url: https://progress.substack.com/p/how-to-fix-big-tech
   unit: ipu
+  tags: progress
 - title: "Reconfiguring the state: case studies from around the world"
   date: 2020-10-21
   url: https://institute.global/policy/reconfiguring-state-case-studies-around-world
@@ -484,7 +488,7 @@
 - title: "The hammer and the trance"
   date: 2020-11-06
   url: https://progress.substack.com/p/the-hammer-and-the-trance
-  tags: covid-19
+  tags: covid-19, progress
 - title: "The TBI Globalism Study: Transparency and autonomy should underpin online voting systems"
   date: 2020-11-16
   url: https://institute.global/policy/tbi-globalism-study-transparency-and-autonomy-should-underpin-online-voting-systems
@@ -533,6 +537,7 @@
 - title: "What people really think about tech"
   url: https://progress.substack.com/p/what-people-really-think-about-tech
   date: 2020-11-24
+  tags: progress
 - title: "Technology to feed the world (full report)"
   url: https://institute.global/policy/technology-feed-world
   date: 2020-12-03
@@ -541,6 +546,7 @@
   url: https://progress.substack.com/p/technology-to-feed-the-world
   date: 2020-12-03
   unit: siu
+  tags: progress
 - title: "Food is the missing piece of Boris Johnson's green revolution"
   url: https://www.independent.co.uk/voices/food-boris-johnson-climate-change-cop-26-b1765229.html
   date: 2020-12-03
@@ -581,7 +587,7 @@
   url: https://progress.substack.com/p/a-shot-in-the-arm-for-platform-integrity
   date: 2020-12-17
   unit: ipu
-  tags: covid-19
+  tags: covid-19, progress
 - title: "Debated Podcast: Technology and Covid-19 with Benedict Macon-Cooney"
   url: https://debatedpodcast.podbean.com/e/technology-and-covid-19-w-benedict-macon-cooney/
   date: 2020-04-28
@@ -591,6 +597,7 @@
   url: https://progress.substack.com/p/whats-your-moonshot
   date: 2021-01-07
   unit: siu
+  tags: progress
 - title: "Tech moonshots: big ideas for a brighter future"
   url: https://institute.global/policy/tech-moonshots-big-ideas-brighter-future
   date: 2021-01-07
@@ -611,6 +618,7 @@
   url: https://progress.substack.com/p/dont-be-afraid-of-mutant-algorithms
   date: 2021-01-26
   unit: dgu
+  tags: progress
 - title: "We need radical reform of our data infrastructure to beat Covid-19"
   url: https://institute.global/policy/we-need-radical-reform-our-data-infrastructure-beat-covid-19
   date: 2021-02-01
@@ -625,7 +633,7 @@
 - title: "Post-pandemic state of mind"
   url: https://progress.substack.com/p/post-pandemic-state-of-mind
   date: 2021-02-11
-  tags: covid-19
+  tags: covid-19, progress
 - title: "The UK government should take the lead on digital health passports"
   url: https://institute.global/policy/uk-government-should-take-lead-implementing-digital-health-passports-heres-why
   date: 2021-02-14
