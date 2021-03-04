@@ -1,6 +1,7 @@
 - name: Chris Yiu
   title: Executive Director
   unit: pmo
+  geo: London
   img: chris.jpg
   tbi: chris-yiu
   tw: clry2
@@ -8,6 +9,7 @@
 - name: Max Beverton-Palmer
   title: Head of the Internet Policy Unit
   unit: ipu
+  geo: London
   img: max.jpg
   tbi: max-beverton-palmer
   tw: Maxjb
@@ -15,6 +17,7 @@
 - name: Andrew Bennett
   title: Policy Analyst
   unit: ipu
+  geo: London
   img: andrew.jpg
   tbi: andrew-bennett
   tw: andrewjb_
@@ -22,6 +25,7 @@
 - name: Kirsty Innes
   title: Head of the Digital Government Unit
   unit: dgu
+  geo: London
   img: kirsty.jpg
   tbi: kirsty-innes
   tw: kmei_
@@ -29,6 +33,7 @@
 - name: Rosie Beacon
   title: Policy Analyst
   unit: dgu
+  geo: London
   img: rosie.jpg
   tbi: rosie-beacon
   tw: BeaconRosie
@@ -36,6 +41,7 @@
 - name: Benedict Macon-Cooney
   title: Head of the Science and Innovation Unit
   unit: siu
+  geo: London
   img: benedict.jpg
   tbi: benedict-macon-cooney
   tw: benedictcooney
@@ -43,6 +49,7 @@
 - name: Hermione Dace
   title: Policy Analyst
   unit: siu
+  geo: London
   img: hermione.jpg
   tbi: hermione-dace
   tw: DaceHermione
@@ -50,6 +57,7 @@
 - name: Roxanne Bamford
   title: Policy Lead
   unit: tdu
+  geo: London
   img: roxanne.jpg
   tbi: roxanne-bamford
   tw: RoxanneBamford
@@ -57,6 +65,7 @@
 - name: Georgina Hutchinson
   title: Policy Lead
   unit: tdu
+  geo: London
   img: georgina.jpg
   tbi: georgina-hutchinson
   tw: GTHutchinson
@@ -64,6 +73,7 @@
 - name: Lucia Asanache
   title: Community Lead
   unit: cet
+  geo: London
   img: lucia.jpg
   tw: lucia_asanache
   li: lasanache
