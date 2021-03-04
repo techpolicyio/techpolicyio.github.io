@@ -75,6 +75,24 @@
   unit: cet
   geo: London
   img: lucia.jpg
+  tbi: lucia-asanache
   tw: lucia_asanache
   li: lasanache
-  tbi: lucia-asanache
+ - name: Blaise Bayou
+  title: Policy Lead 
+  unit: tdu
+  geo: Accra
+  img: blaise.jpg
+  tbi:
+  tw: bbayuo
+  li: blaise-b-bayuo-b78b081a
+ - name: Lix Malara
+  title: Community Manager
+  unit: cet
+  geo: San Francisco
+  img: liz.jpg
+  tbi: 
+  tw: MalaraElizabeth
+  li: lizmalara
+  
+  
