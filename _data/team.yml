@@ -94,5 +94,19 @@
   tbi: 
   tw: MalaraElizabeth
   li: lizmalara
-  
-  
+- name: Henry Fingerhut
+  title: Policy Lead
+  unit: siu
+  geo: London
+  img: henry.jpg
+  tbi: 
+  tw: henryfingerhut
+  li: henry-fingerhut
+- name: Bridget Boakye
+  title: Policy Lead
+  unit: ipu
+  geo: Accra
+  img: bridget.jpg
+  tbi: 
+  tw: boakye_b
+  li: bridgetboakye
