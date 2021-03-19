@@ -14,6 +14,14 @@
   tbi: max-beverton-palmer
   tw: Maxjb
   li: maxbeverton
+- name: Bridget Boakye
+  title: Policy Lead
+  unit: ipu
+  geo: Accra
+  img: bridget.jpg
+  tbi: 
+  tw: boakye_b
+  li: bridgetboakye
 - name: Andrew Bennett
   title: Policy Analyst
   unit: ipu
@@ -46,6 +54,14 @@
   tbi: benedict-macon-cooney
   tw: benedictcooney
   li: benedict-macon-cooney-4516ab29
+- name: Henry Fingerhut
+  title: Senior Policy Analyst
+  unit: siu
+  geo: London
+  img: henry.jpg
+  tbi: 
+  tw: henryfingerhut
+  li: henry-fingerhut
 - name: Hermione Dace
   title: Policy Analyst
   unit: siu
@@ -94,19 +110,3 @@
   tbi: 
   tw: MalaraElizabeth
   li: lizmalara
-- name: Henry Fingerhut
-  title: Senior Policy Analyst
-  unit: siu
-  geo: London
-  img: henry.jpg
-  tbi: 
-  tw: henryfingerhut
-  li: henry-fingerhut
-- name: Bridget Boakye
-  title: Policy Lead
-  unit: ipu
-  geo: Accra
-  img: bridget.jpg
-  tbi: 
-  tw: boakye_b
-  li: bridgetboakye
