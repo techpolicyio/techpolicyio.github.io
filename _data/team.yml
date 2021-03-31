@@ -7,7 +7,7 @@
   tw: clry2
   li: clry2
 - name: Max Beverton-Palmer
-  title: Head of the Internet Policy Unit
+  title: Director, Internet Policy Unit
   unit: ipu
   geo: London
   img: max.jpg
@@ -31,7 +31,7 @@
   tw: andrewjb_
   li: andrew-bennett-81a0597a
 - name: Kirsty Innes
-  title: Head of the Digital Government Unit
+  title: Director, Digital Government Unit
   unit: dgu
   geo: London
   img: kirsty.jpg
@@ -47,13 +47,21 @@
   tw: BeaconRosie
   li: rosie-beacon-033470112
 - name: Benedict Macon-Cooney
-  title: Head of the Science and Innovation Unit
+  title: Director, Science and Innovation Unit
   unit: siu
   geo: London
   img: benedict.jpg
   tbi: benedict-macon-cooney
   tw: benedictcooney
   li: benedict-macon-cooney-4516ab29
+- name: Olamide Oguntoye
+  title: Policy Lead
+  unit: siu
+  geo: Accra
+  img: olamide.jpg
+  tbi: 
+  tw: olaoguntoye
+  li: olamideoguntoye
 - name: Henry Fingerhut
   title: Senior Policy Analyst
   unit: siu
@@ -110,12 +118,3 @@
   tbi: 
   tw: MalaraElizabeth
   li: lizmalara
-- name: Olamide Oguntoye
-  title: Policy Lead
-  unit: siu
-  geo: Accra
-  img: olamide.jpg
-  tbi: 
-  tw: olaoguntoye
-  li: olamideoguntoye
-  
