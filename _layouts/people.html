@@ -22,44 +22,22 @@ layout: default
         <h2 id="{{ unit.unit }}">{{ unit.name }}</h2>
       </div>
     </div>
+    
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3"> 
       
-    {% assign unit_people = site.data.team | where: "unit", unit.unit %}
-    {% assign col_count = 1 %}
-
-    {% for person in unit_people %}
-
-      {% if col_count == 1 %}
-        <div class="row">
-      {% endif %}
-
-      <div class="col-lg-4 col-md-6 my-2">
-
-      {% include profile.html %}
-
-      </div>
-
-      {% assign col_count = col_count | plus: 1 %}
-
-      {% if col_count > 3 %}
+      {% assign unit_people = site.data.team | where: "unit", unit.unit %}
+    
+      {% for person in unit_people %}
+    
+        <div class="col my-3">
+        
+        {% include profile.html %}
+        
         </div>
-        {% assign col_count = 1 %}
-      {% endif %}
-
-    {% endfor %}
-
-    {% if col_count > 1 %}
-  
-      {% if col_count == 2 %}
-        <div class="col">
-        </div>
-      {% endif %}
-
-      <div class="col">
-      </div>
-
-      </div>
-
-    {% endif %}
+        
+      {% endfor %}
+    
+    </div>
     
   {% endfor %}
 
