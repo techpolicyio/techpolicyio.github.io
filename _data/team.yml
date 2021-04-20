@@ -46,14 +46,6 @@
   tbi: kirsty-innes
   tw: kmei_
   li: kirsty-innes-89834a49
-- name: Rosie Beacon
-  title: Policy Analyst
-  unit: dgu
-  geo: London
-  img: rosie.jpg
-  tbi: rosie-beacon
-  tw: BeaconRosie
-  li: rosie-beacon-033470112
 - name: Alexander Iosad
   title: Policy Lead
   unit: dgu
@@ -62,6 +54,14 @@
   tbi: 
   tw: simplescholar
   li: aiosad
+- name: Rosie Beacon
+  title: Policy Analyst
+  unit: dgu
+  geo: London
+  img: rosie.jpg
+  tbi: rosie-beacon
+  tw: BeaconRosie
+  li: rosie-beacon-033470112
 - name: Benedict Macon-Cooney
   title: Director, Science and Innovation Unit
   unit: siu
