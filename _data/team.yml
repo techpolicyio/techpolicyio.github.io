@@ -110,6 +110,14 @@
   tbi: 
   tw: henryfingerhut
   li: henry-fingerhut
+- name: Jess Northend
+  title: Policy Lead
+  unit: siu
+  geo: London
+  img: jess.jpg
+  tbi: 
+  tw: jnorthend
+  li: jessicanorthend
 - name: Hermione Dace
   title: Policy Analyst
   unit: siu
@@ -174,3 +182,12 @@
   tbi: 
   tw: MalaraElizabeth
   li: lizmalara
+- name: Rachel Akrofie
+  title: Community Manager
+  unit: cet
+  geo: Accra
+  img: rachel.jpg
+  tbi: 
+  tw: 
+  li: rachel-akrofie-a9aa0a103
+  
