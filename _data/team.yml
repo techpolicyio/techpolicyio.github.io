@@ -30,14 +30,6 @@
   tbi: max-beverton-palmer
   tw: Maxjb
   li: maxbeverton
-- name: Bridget Boakye
-  title: Policy Lead
-  unit: ipu
-  geo: Accra
-  img: bridget.jpg
-  tbi: 
-  tw: boakye_b
-  li: bridgetboakye
 - name: Melanie Garson
   title: Policy Lead
   unit: ipu
@@ -54,6 +46,14 @@
   tbi: andrew-bennett
   tw: andrewjb_
   li: andrew-bennett-81a0597a
+- name: Bridget Boakye
+  title: Policy Lead
+  unit: ipu
+  geo: Accra
+  img: bridget.jpg
+  tbi: 
+  tw: boakye_b
+  li: bridgetboakye
 - name: Kirsty Innes
   title: Director, Digital Government Unit
   unit: dgu
@@ -70,14 +70,6 @@
   tbi: 
   tw: simplescholar
   li: aiosad
-- name: Hilda Barasa
-  title: Policy Lead
-  unit: dgu
-  geo: Accra
-  img: hilda.jpg
-  tbi: 
-  tw: hbarasa
-  li: hilda-barasa-3467355
 - name: Rosie Beacon
   title: Policy Analyst
   unit: dgu
@@ -86,6 +78,14 @@
   tbi: rosie-beacon
   tw: BeaconRosie
   li: rosie-beacon-033470112
+- name: Hilda Barasa
+  title: Policy Lead
+  unit: dgu
+  geo: Accra
+  img: hilda.jpg
+  tbi: 
+  tw: hbarasa
+  li: hilda-barasa-3467355
 - name: Benedict Macon-Cooney
   title: Director, Science and Innovation Unit
   unit: siu
@@ -94,14 +94,14 @@
   tbi: benedict-macon-cooney
   tw: benedictcooney
   li: benedict-macon-cooney-4516ab29
-- name: Olamide Oguntoye
+- name: Jess Northend
   title: Policy Lead
   unit: siu
-  geo: Accra
-  img: olamide.jpg
+  geo: San Francisco
+  img: jess.jpg
   tbi: 
-  tw: olaoguntoye
-  li: olamideoguntoye
+  tw: jnorthend
+  li: jessicanorthend
 - name: Henry Fingerhut
   title: Senior Policy Analyst
   unit: siu
@@ -110,14 +110,6 @@
   tbi: 
   tw: henryfingerhut
   li: henry-fingerhut
-- name: Jess Northend
-  title: Policy Lead
-  unit: siu
-  geo: London
-  img: jess.jpg
-  tbi: 
-  tw: jnorthend
-  li: jessicanorthend
 - name: Hermione Dace
   title: Policy Analyst
   unit: siu
@@ -126,6 +118,22 @@
   tbi: hermione-dace
   tw: DaceHermione
   li: hermione-dace-308040171
+- name: Olamide Oguntoye
+  title: Policy Lead
+  unit: siu
+  geo: Accra
+  img: olamide.jpg
+  tbi: 
+  tw: olaoguntoye
+  li: olamideoguntoye
+- name: Karen Hooper
+  title: Policy Lead
+  unit: siu
+  geo: Singapore 
+  img: karen.jpg
+  tbi: 
+  tw: KarenLHooper
+  li: karenlschuster
 - name: Sophie Tholstrup
   title: Head of the Tech for Development Unit
   unit: tdu
@@ -150,6 +158,22 @@
   tbi: georgina-hutchinson
   tw: GTHutchinson
   li: georgina-hutchinson-95505218
+- name: Blaise Bayuo
+  title: Policy Lead 
+  unit: tdu
+  geo: Accra
+  img: blaise.jpg
+  tbi:
+  tw: bbayuo
+  li: blaise-b-bayuo-b78b081a
+- name: Vineeth Murthy
+  title: Policy Lead
+  unit: tdu
+  geo: Accra
+  img: vineeth.jpg
+  tbi: 
+  tw: murthy_vineeth
+  li: vineethav1
 - name: Roman Skorzus
   title: Policy Lead
   unit: tdu
@@ -166,22 +190,6 @@
   tbi: lucia-asanache
   tw: lucia_asanache
   li: lasanache
-- name: Blaise Bayuo
-  title: Policy Lead 
-  unit: tdu
-  geo: Accra
-  img: blaise.jpg
-  tbi:
-  tw: bbayuo
-  li: blaise-b-bayuo-b78b081a
-- name: Liz Malara
-  title: Community Manager
-  unit: cet
-  geo: San Francisco
-  img: liz.jpg
-  tbi: 
-  tw: MalaraElizabeth
-  li: lizmalara
 - name: Rachel Akrofie
   title: Community Manager
   unit: cet
@@ -190,4 +198,11 @@
   tbi: 
   tw: 
   li: rachel-akrofie-a9aa0a103
-  
+- name: Liz Malara
+  title: Community Manager
+  unit: cet
+  geo: San Francisco
+  img: liz.jpg
+  tbi: 
+  tw: MalaraElizabeth
+  li: lizmalara
