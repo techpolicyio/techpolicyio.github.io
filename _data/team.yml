@@ -158,14 +158,6 @@
   tbi: georgina-hutchinson
   tw: GTHutchinson
   li: georgina-hutchinson-95505218
-- name: Blaise Bayuo
-  title: Policy Lead 
-  unit: tdu
-  geo: Accra
-  img: blaise.jpg
-  tbi:
-  tw: bbayuo
-  li: blaise-b-bayuo-b78b081a
 - name: Vineeth Murthy
   title: Policy Lead
   unit: tdu
@@ -174,6 +166,14 @@
   tbi: 
   tw: murthy_vineeth
   li: vineethav1
+- name: Blaise Bayuo
+  title: Policy Lead 
+  unit: tdu
+  geo: Accra
+  img: blaise.jpg
+  tbi:
+  tw: bbayuo
+  li: blaise-b-bayuo-b78b081a
 - name: Roman Skorzus
   title: Policy Lead
   unit: tdu
