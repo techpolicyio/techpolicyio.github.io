@@ -794,16 +794,6 @@
   url: https://platformleaders.com/insights/designing-future-proof-platform-regulation/ 
   date: 2021-05-07
   unit: ipu
-- title: "Platform regulation"
-  url: https://platformleaders.com/insights/designing-future-proof-platform-regulation/ 
-  date: 2021-04-15
-  unit: ipu
-  tags: video
-- title: "Tech Shock: What about the rest of the world?"
-  url: https://podcasts.apple.com/gb/podcast/18-what-about-the-rest-of-the-world/id1535431770?i=1000511037256
-  date: 2021-03-01
-  unit: ipu
-  tags: podcast
 - title: "Social media & the African narrative — a clubhouse event recap"
   url: https://boakyeb.medium.com/social-media-the-african-narrative-a-clubhouse-event-recap-cf370f59813b
   date: 2021-04-29
@@ -812,4 +802,16 @@
   url: https://newgeographyofinnovation.carrd.co/#start
   date: 2021-06-01
   unit: siu
-  
+- title: "The fundamentals of tech transformation: identity in a digital age"
+  url: https://institute.global/policy/fundamentals-tech-transformation-identity-digital-age
+  date: 2021-05-18
+  unit: tdu
+- title: "The future of digital platforms"
+  url: https://www.youtube.com/watch?v=BSGDmmoBH6k
+  date: 2021-04-15
+  unit: ipu
+  tags: video
+- title: 'Another world waiting for us'
+  url: https://progress.substack.com/p/another-world-waiting-for-us
+  date: 2021-06-04
+  tags: progress
