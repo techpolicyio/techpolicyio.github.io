@@ -102,14 +102,6 @@
   tbi: benedict-macon-cooney
   tw: benedictcooney
   li: benedict-macon-cooney-4516ab29
-- name: Jess Northend
-  title: Policy Lead
-  unit: siu
-  geo: San Francisco
-  img: jess.jpg
-  tbi: 
-  tw: jnorthend
-  li: jessicanorthend
 - name: Henry Fingerhut
   title: Senior Policy Analyst
   unit: siu
@@ -118,6 +110,14 @@
   tbi: 
   tw: henryfingerhut
   li: henry-fingerhut
+- name: Martin Carkett
+  title: Policy Lead
+  unit: siu
+  geo: London
+  img: martin.jpg
+  tbi: 
+  tw: martincarkett
+  li: martin-carkett-ph-d-9b011183
 - name: Hermione Dace
   title: Policy Analyst
   unit: siu
@@ -134,6 +134,14 @@
   tbi: 
   tw: olaoguntoye
   li: olamideoguntoye
+- name: Jess Northend
+  title: Policy Lead
+  unit: siu
+  geo: San Francisco
+  img: jess.jpg
+  tbi: 
+  tw: jnorthend
+  li: jessicanorthend
 - name: Karen Hooper
   title: Policy Lead
   unit: siu
