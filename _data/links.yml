@@ -827,10 +827,12 @@
 - title: "Defending the free and open internet in an age of authoritarianism"
   url: https://institute.global/policy/defending-free-and-open-internet-age-authoritarianism-0
   date: 2021-06-10
-  unit: dgu
+  unit: ipu
 - title: "The fundamentals of tech transformation: cloud policy"
   url: https://institute.global/policy/fundamentals-tech-transformation-cloud-policy
   date: 2021-06-14
   unit: tdu
-
-  
+- title: "Why education systems must adopt a tech-inclusive perspective"
+  url: https://institute.global/policy/why-education-systems-must-adopt-tech-inclusive-perspective
+  date: 2021-06-15
+  unit: dgu
