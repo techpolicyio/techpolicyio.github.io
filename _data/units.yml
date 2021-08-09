@@ -1,6 +1,6 @@
-- unit: pmo
-  slug: programme-office
-  name: "Programme office"
+- unit: edo
+  slug: executive-office
+  name: "Executive office"
 - unit: ipu
   slug: internet-policy
   name: "Internet policy"
@@ -16,3 +16,6 @@
 - unit: cet
   slug: community-engagement
   name: "Community engagement"
+- unit: sot
+  slug: strategy-operations
+  name: "Strategy and operations"

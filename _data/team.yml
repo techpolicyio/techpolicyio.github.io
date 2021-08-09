@@ -1,6 +1,6 @@
 - name: Chris Yiu
   title: Executive Director
-  unit: pmo
+  unit: edo
   geo: London
   img: chris.jpg
   tbi: chris-yiu
@@ -8,7 +8,7 @@
   li: clry2
 - name: Patrick Kilcoyne
   title: Strategy and Operations Lead
-  unit: pmo
+  unit: sot
   geo: London
   img: patrick.jpg
   tbi: 
@@ -16,7 +16,7 @@
   li: patrick-kilcoyne-3942b144
 - name: Ariana Kiran Singh
   title: Senior Operations Analyst
-  unit: pmo
+  unit: sot
   geo: London
   img: ariana.jpg
   tbi: 
