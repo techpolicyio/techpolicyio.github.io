@@ -54,14 +54,6 @@
   tbi: 
   tw: boakye_b
   li: bridgetboakye
-- name: Pete Furlong
-  title: Senior Policy Analyst
-  unit: ipu
-  geo: San Francisco
-  img: pete.jpeg
-  tbi: 
-  tw: FurlongPete
-  li: pete-furlong-b2a04769
 - name: Matt Nguyen
   title: Policy Lead
   unit: ipu
@@ -70,6 +62,14 @@
   tbi: 
   tw: matthewngn
   li: matthewngn
+- name: Pete Furlong
+  title: Senior Policy Analyst
+  unit: ipu
+  geo: San Francisco
+  img: pete.jpeg
+  tbi: 
+  tw: FurlongPete
+  li: pete-furlong-b2a04769
 - name: Rhea Subramanya
   title: Lead Economist
   unit: ipu
