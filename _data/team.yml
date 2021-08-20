@@ -54,6 +54,30 @@
   tbi: 
   tw: boakye_b
   li: bridgetboakye
+- name: Pete Furlong
+  title: Senior Policy Analyst
+  unit: ipu
+  geo: San Francisco
+  img: pete.jpeg
+  tbi: 
+  tw: FurlongPete
+  li: pete-furlong-b2a04769
+- name: Matt Nguyen
+  title: Policy Lead
+  unit: ipu
+  geo: Singapore
+  img: matt.jpg
+  tbi: 
+  tw: matthewngn
+  li: matthewngn
+- name: Rhea Subramanya
+  title: Lead Economist
+  unit: ipu
+  geo: San Francisco
+  img: rhea.jpg
+  tbi: 
+  tw: 
+  li: rheasubramanya
 - name: Kirsty Innes
   title: Director, Digital Government Unit
   unit: dgu
@@ -198,6 +222,14 @@
   tbi: georgina-hutchinson
   tw: GTHutchinson
   li: georgina-hutchinson-95505218
+- name: Chizi Gakuo
+  title: Policy Analyst
+  unit: tdu
+  geo: London
+  img: chizi.jpeg
+  tbi: 
+  tw: 
+  li: magdalena-chizi-gakuo-4b3550b8
 - name: Vineeth Murthy
   title: Policy Lead
   unit: tdu
@@ -222,6 +254,14 @@
   tbi: 
   tw: RSkorzus
   li: rskorzus
+- name: Kenddrick Chan
+  title: Senior Policy Analyst
+  unit: tdu
+  geo: Singapore
+  img: kenddrick.jpeg
+  tbi: 
+  tw: kenddrick
+  li: kenddrick
 - name: Sabahat Iqbal
   title: Senior Policy Analyst 
   unit: tdu
