@@ -17,27 +17,34 @@ layout: default
   </div>
 
   {% for unit in site.data.units %}
-    <div class=row">
-      <div class="col mt-5 mb-3"">
-        <h2 id="{{ unit.unit }}">{{ unit.name }}</h2>
-      </div>
-    </div>
-    
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3"> 
-      
-      {% assign unit_people = site.data.team | where: "unit", unit.unit %}
-    
-      {% for person in unit_people %}
-    
-        <div class="col my-3">
-        
-        {% include profile.html %}
-        
+  
+    {% assign unit_people = site.data.team | where: "unit", unit.unit %}
+  
+    {% if unit_people.size > 0 %}
+
+      <div class=row">
+        <div class="col mt-5 mb-3"">
+          <h2 id="{{ unit.unit }}">{{ unit.name }}</h2>
         </div>
-        
-      {% endfor %}
+      </div>
     
-    </div>
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3"> 
+      
+        {% assign unit_people = site.data.team | where: "unit", unit.unit %}
+    
+        {% for person in unit_people %}
+    
+          <div class="col my-3">
+        
+          {% include profile.html %}
+        
+          </div>
+        
+        {% endfor %}
+    
+      </div>
+      
+    {% endif %}
     
   {% endfor %}
 
