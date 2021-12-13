@@ -1,3 +1,11 @@
+- name: Prachetas Bhatnagar
+  title: Strategy and Operations Manager
+  unit: sot
+  geo: London
+  img: prachetas.jpg
+  tbi: 
+  tw: 
+  li: 
 - name: Ariana Kiran Singh
   title: Senior Operations Analyst
   unit: sot
@@ -302,3 +310,12 @@
   tbi: 
   tw: MalaraElizabeth
   li: lizmalara
+- name: Marie Teo
+  title: Community Manager
+  unit: cet
+  geo: Singapore
+  img: marie.jpg
+  tbi: 
+  tw: 
+  li: marie-teo-a52742103
+  
