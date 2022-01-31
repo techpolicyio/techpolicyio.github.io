@@ -1074,7 +1074,7 @@
   date: 2022-01-06
   unit: siu
 - title: "CityCoins: civic engagement for the crypto era"
-  url: hhttps://institute.global/policy/citycoins-civic-engagement-crypto-era
+  url: https://institute.global/policy/citycoins-civic-engagement-crypto-era
   date: 2022-01-06
   unit: siu
 - title: "Building tech-enabled disaster management systems: how governments can access and integrate the tools that matter
@@ -1084,5 +1084,29 @@
 - title: "CityCoins: why it’s important for policymakers to seize the moment"
   url: https://institute.global/policy/citycoins-why-its-important-policymakers-seize-moment
   date: 2022-01-11
+  unit: siu
+- title: "Closing the funding gap for africa tech startups"
+  url: https://institute.global/policy/closing-funding-gap-africa-tech-startups-1
+  date: 2022-01-14
+  unit: dgu
+- title: "Which way will the curve bend for climate tech in 2022?"
+  url: https://institute.global/policy/which-way-will-curve-bend-climate-tech-2022
+  date: 2022-01-21
+  unit: siu
+- title: "A roadmap for managing Disasters: How Climate-Vulnerable Countries Can Finance Tech"
+  url: https://institute.global/policy/roadmap-managing-disasters-how-climate-vulnerable-countries-can-finance-tech
+  date: 2022-01-24
+  unit: dgu
+- title: "Decisions on digitalisation: using participatory democracy for better policy"
+  url: https://institute.global/policy/decisions-digitalisation-using-participatory-democracy-better-policy
+  date: 2022-01-25
+  unit: dgu
+- title: "Inferential biometrics: towards a governance framework"
+  url: https://institute.global/policy/inferential-biometrics-towards-governance-framework
+  date: 2022-01-25
+  unit: siu
+- title: "Next-generation transport: increasing urban productivity with mobility as a service"
+  url: https://institute.global/policy/next-generation-transport-increasing-urban-productivity-mobility-service
+  date: 2022-01-26
   unit: siu
   
