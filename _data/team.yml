@@ -1,3 +1,11 @@
+- name: Sam Sharps
+  title: Executive Director
+  unit: edo
+  geo: London
+  img: sam.jpg
+  tbi: 
+  tw: samsharpstbi
+  li: sam-sharps-21a21175
 - name: Prachetas Bhatnagar
   title: Strategy and Operations Manager
   unit: sot
@@ -30,14 +38,6 @@
   tbi: 
   tw: MelanieGarson
   li: melanie-garson-713b02
-- name: Andrew Bennett
-  title: Senior Policy Analyst
-  unit: ipu
-  geo: London
-  img: andrew.jpg
-  tbi: andrew-bennett
-  tw: andrewjb_
-  li: andrew-bennett-81a0597a
 - name: Kevin Zandermann
   title: Policy Analyst
   unit: ipu
@@ -206,14 +206,6 @@
   tbi: 
   tw: sophietholstrup
   li: sophie-tholstrup-93222311
-- name: Roxanne Bamford
-  title: Policy Lead
-  unit: tdu
-  geo: London
-  img: roxanne.jpg
-  tbi: roxanne-bamford
-  tw: RoxanneBamford
-  li: roxannebamford
 - name: Georgina Hutchinson
   title: Policy Lead
   unit: tdu
