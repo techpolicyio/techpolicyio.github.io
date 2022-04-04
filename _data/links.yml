@@ -887,7 +887,7 @@
   url: https://institute.global/policy/hungry-change-whats-beef-alternative-proteins
   date: 2021-07-30
   unit: siu
-- title: "Digital transformation and the role of technology in building healthier populations"
+- title: "Using Technology to Build Healthier Populations"
   url: https://institute.global/policy/digital-transformation-and-role-technology-building-healthier-populations-submission-reform
   date: 2021-08-03
   unit: siu  
@@ -1239,26 +1239,49 @@
 - title: "The New Frontier of Extending Lifespans and Healthspans at SXSW: Key Takeaways"
   url: https://institute.global/policy/new-frontier-extending-lifespans-and-healthspans-sxsw-key-takeaways-1
   date: 2022-04-01
-  unit: SIU
+  unit: siu
 - title: "Are We Ready for a Chinese Reshaping of the Global Agrifood System?"
   url: https://institute.global/policy/are-we-ready-chinese-reshaping-global-agrifood-system
   date: 2022-03-28
-  unit: SIU
+  unit: siu
 - title: "Digital Government in North America: Innovating for Quality, Inclusion and Access"
   url: https://institute.global/policy/digital-government-north-america-innovating-quality-inclusion-and-access
   date: 2022-03-28
-  unit: DGU
+  unit: dgu
 - title: "A Leaders’ Guide to Building a Tech-Forward Foreign Policy"
   url: https://institute.global/policy/leaders-guide-building-tech-forward-foreign-policy
   date: 2022-03-25
-  unit: IPU
+  unit: ipu
 - title: "Strategic Foreign-Policy Leadership for a New Era of Tech Geopolitics"
   url: https://institute.global/policy/strategic-foreign-policy-leadership-new-era-tech-geopolitics
   date: 2022-03-25
-  unit: IPU
+  unit: ipu
 - title: "State of Resilience: How Ukraine’s Digital Government Is Supporting Its Citizens During the War"
   url: https://institute.global/policy/state-resilience-how-ukraines-digital-government-supporting-its-citizens-during-war
   date: 2022-03-25
-  unit: DGU
-  
+  unit: dgu
+- title: "Two Barriers to Normal"
+  url: https://institute.global/policy/two-barriers-normal
+  date: 2021-05-12
+  unit: dgu
+- title: "A Research and Policy Agenda for the Post-Pandemic World"
+  url: https://institute.global/policy/research-and-policy-agenda-post-pandemic-world
+  date: 2021-07-19
+  unit: siu
+- title: "Make No Mistake, Digital Health Passes Will Help Get the Economy Moving Again"
+  url: https://institute.global/policy/make-no-mistake-digital-health-passes-will-help-get-economy-moving-again
+  date: 2021-02-22
+  unit: dgu
+- title: "Why Governments and NGOs Are Behind on Blockchain (and How to Fix That)"
+  url: https://institute.global/policy/why-governments-and-ngos-are-behind-blockchain-and-how-fix
+  date: 2021-06-14
+  unit: siu
+- title: "Social Media Futures: Will the EU Become the Global Internet Regulator?"
+  url: https://institute.global/policy/social-media-futures-will-eu-become-global-internet-regulator
+  date: 2021-12-13
+  unit: ipu
+- title: "Harnessing technology in the fight against climate crises: a roadmap for leaders"
+  url: https://institute.global/policy/harnessing-technology-fight-against-climate-crises-roadmap-leaders
+  date: 2021-11-05
+  unit: tdu
   
