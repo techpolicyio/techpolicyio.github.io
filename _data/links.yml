@@ -664,7 +664,6 @@
 - title: "The progressive case for universal internet access"
   url: https://institute.global/policy/progressive-case-universal-internet-access-how-close-digital-divide-2030
   date: 2021-03-02
-  tags:
   unit: tdu
 - title: "Future policy for a future internet"
   url: https://progress.substack.com/p/future-policy-for-a-future-internet
@@ -1145,54 +1144,26 @@
   url: https://institute.global/policy/making-it-work-participatory-project-gig-work
   date: 2022-02-04
   unit: dgu
+- title: "The TBI Globalism Study: How Big Is the Tech Trust Gap?"
+  url: https://institute.global/policy/tbi-globalism-study-tech-trust
+  date: 2022-02-07
+  unit: ipu siu
+- title: "The TBI Globalism Study: Foreword by Tony Blair"
+  url: https://institute.global/policy/tbi-globalism-study-tech-foreword
+  date: 2022-02-07
+  unit: Tony Blair
 - title: "Trust in government: data, services and cover-up"
   url: https://institute.global/policy/tbi-globalism-study-tech-government
   date: 2022-02-07
-  unit: dgu
-- title: "Trust in government: data, services and cover-up"
-  url: https://institute.global/policy/tbi-globalism-study-tech-government
+  unit: ipu siu
+- title: "Trust in Technology: AI, Freedoms and Harms"
+  url: https://institute.global/policy/tbi-globalism-study-tech-technology
   date: 2022-02-07
-  unit: ipu
-- title: "Trust in government: data, services and cover-up"
-  url: https://institute.global/policy/tbi-globalism-study-tech-government
-  date: 2022-02-07
-  unit: siu
-- title: "Trust in the international order: collaboration and cyberattacks"
+  unit: ipu siu
+- title: "Trust in the International Order: Collaboration and Cyberattacks"
   url: https://institute.global/policy/tbi-globalism-study-tech-international-order
   date: 2022-02-07
-  unit: ipu
-- title: "Trust in the international order: collaboration and cyberattacks"
-  url: https://institute.global/policy/tbi-globalism-study-tech-international-order
-  date: 2022-02-07
-  unit: siu
-- title: "Trust in the international order: collaboration and cyberattacks"
-  url: https://institute.global/policy/tbi-globalism-study-tech-international-order
-  date: 2022-02-07
-  unit: dgu
-- title: "Trust in technology: AI, freedoms and harms"
-  url: https://institute.global/policy/tbi-globalism-study-tech-international-order
-  date: 2022-02-07
-  unit: dgu
-- title: "Trust in technology: AI, freedoms and harms"
-  url: https://institute.global/policy/tbi-globalism-study-tech-international-order
-  date: 2022-02-07
-  unit: ipu
-- title: "Trust in technology: AI, freedoms and harms"
-  url: https://institute.global/policy/tbi-globalism-study-tech-international-order
-  date: 2022-02-07
-  unit: siu
-- title: "The TBI globalism study: how big is the tech trust gap?"
-  url: https://institute.global/policy/tbi-globalism-study-tech-trust
-  date: 2022-02-07
-  unit: siu
-- title: "The TBI globalism study: how big is the tech trust gap?"
-  url: https://institute.global/policy/tbi-globalism-study-tech-trust
-  date: 2022-02-07
-  unit: dgu
-- title: "The TBI globalism study: how big is the tech trust gap?"
-  url: https://institute.global/policy/tbi-globalism-study-tech-trust
-  date: 2022-02-07
-  unit: ipu
+  unit: ipu siu
 - title: "Gaining more bang for fusion’s buck with pivot-support programmes"
   url: https://institute.global/policy/gaining-more-bang-fusions-buck-pivot-support-programmes
   date: 2022-02-10
