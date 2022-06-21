@@ -38,6 +38,14 @@
   tbi: 
   tw: MelanieGarson
   li: melanie-garson-713b02
+- name: Rosie Beacon
+  title: Policy Analyst
+  unit: dgu
+  geo: London
+  img: rosie.jpg
+  tbi: rosie-beacon
+  tw: BeaconRosie
+  li: rosie-beacon-033470112
 - name: Kevin Zandermann
   title: Policy Analyst
   unit: ipu
@@ -102,14 +110,6 @@
   tbi: 
   tw: Olliel24
   li: oliver-large-3711b3106
-- name: Rosie Beacon
-  title: Policy Analyst
-  unit: dgu
-  geo: London
-  img: rosie.jpg
-  tbi: rosie-beacon
-  tw: BeaconRosie
-  li: rosie-beacon-033470112
 - name: Hilda Barasa
   title: Policy Lead
   unit: dgu
@@ -166,6 +166,14 @@
   tbi: hermione-dace
   tw: DaceHermione
   li: hermione-dace-308040171
+- name: Paul Blakeley
+  title: Policy Lead
+  unit: siu
+  geo: London
+  img: paul.jpg
+  tbi: 
+  tw: pmblakeley
+  li: pmblakeley
 - name: Olamide Oguntoye
   title: Policy Lead
   unit: siu
@@ -222,6 +230,14 @@
   tbi: 
   tw: 
   li: magdalena-chizi-gakuo-4b3550b8
+- name: Natalia Opsina
+  title: Senior Policy Analyst
+  unit: tdu
+  geo: London
+  img: natalia.jpg
+  tbi: 
+  tw: 
+  li: natalia-ospina-ospina-baba82143
 - name: Vineeth Murthy
   title: Policy Lead
   unit: tdu
