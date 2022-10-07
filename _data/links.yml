@@ -1431,7 +1431,6 @@
 - title: "Governments May Have Fallen Out of Love With Tech. But It’s Time They Learned to Live With It"
   url: https://institute.global/policy/governments-may-have-fallen-out-love-tech-its-time-they-learned-live-it
   date: 2022-06-22
-  unit: TPP
 - title: "New Blood in Our Beating Heart: How Technology Can Revive the NHS"
   url: https://institute.global/policy/new-blood-our-beating-heart-how-technology-can-revive-nhs
   date: 2022-06-29
@@ -1439,7 +1438,7 @@
 - title: "Progress Fellows Programme 2022"
   url: https://institute.global/policy/progress-fellows-programme-2022
   date: 2022-07-05
-  unit: TPP
+  tags: fellows
 - title: "The internet is “at risk of fracturing” amid geopolitical unrest and unregulated tech companies"
   url: https://www.calcalistech.com/ctechnews/article/hjff8heic
   date: 2022-07-10
@@ -1451,7 +1450,7 @@
 - title: "From Standby to Always On: How to Build Global Health Resilience"
   url: https://institute.global/policy/standby-always-how-build-global-health-resilience
   date: 2022-06-20
-  unit: TPP
+  unit: siu
 - title: "Fools Rush in Unprepared: What Lawmakers Can Learn from the Uber Files"
   url: https://institute.global/policy/fools-rush-unprepared-what-lawmakers-can-learn-uber-files
   date: 2022-08-01
@@ -1491,7 +1490,6 @@
 - title: "Technology and the Future of Britain: Ten Uncomfortable Truths for Policymakers"
   url: https://institute.global/policy/technology-and-future-britain-ten-uncomfortable-truths-policymakers
   date: 2022-09-26
-  unit: tpp
 - title: "Three Months to Save the NHS"
   url: https://institute.global/policy/three-months-save-nhs
   date: 2022-08-16
